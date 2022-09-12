@@ -1,0 +1,9 @@
+A config ===> 
+- config.js , votre token
+
+- Events , ready,js , Vive le dev / rLife bot 
+
+
+
+Si vous avez besoin d'aide merci de faire un ticket sur rLife Bot ===>       https://discord.gg/c85vSNNnkA
+Merci de ne pas le leak / vendre
